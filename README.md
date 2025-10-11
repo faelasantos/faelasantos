@@ -1,9 +1,14 @@
-- 👋 Hi, I’m Rafaela Santos
-- 👀 I’m interested in programação
-- 🌱 I’m currently learning python
-- - 📫 How to reach me rafaelasilva.santos74@gmail.com
+- 👋 Hi, I’m Rafaela Santos/
+- Hello World! / Olá, Mundo!
 - 😄 Pronouns: She/her
-- ⚡ Fun fact: I am new in this world
+
+- 👀 Estou me graduando em Análise e Desenvolvimento de Sistema
+- 🌱 Na Faculdade FATEC em Guaratinguetá
+- ⚡ Fun fact: I am new in this world. be a patience and give a opportunity
+
+- - 📫 How to reach me: rafaelasilva.santos74@gmail.com
+
+
 
 <!---
 faelasantos/faelasantos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
