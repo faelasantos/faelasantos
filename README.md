@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Rafaela Santos/
 - Hello World! / Olá, Mundo!
+- 👋 Hi, I’m Rafaela Santos
 - 😄 Pronouns: She/her
 
 - 👀 Estou me graduando em Análise e Desenvolvimento de Sistema
@@ -7,6 +7,7 @@
 - ⚡ Fun fact: I am new in this world. be a patience and give a opportunity
 
 - - 📫 How to reach me: rafaelasilva.santos74@gmail.com
+  - https://www.linkedin.com/in/rafaela-santos
 
 
 
